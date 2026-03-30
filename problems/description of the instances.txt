@@ -1,0 +1,21 @@
+number_ships number_of_waterways planning_horizon
+incoming_ships outgoing_ships	
+
+(for each vessel)
+length width water_Depth
+
+(for each vessel)
+passing time at each waterway
+
+(for each waterway)
+water_depth in waterway at each time step 
+
+(for each waterway)
+waterway's width
+
+(for each vessel)
+vessel's TW
+
+(for each waterway)
+waterway's TW
+
